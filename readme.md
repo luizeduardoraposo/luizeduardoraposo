@@ -11,7 +11,11 @@ I'm eager to join a team where I can contribute, learn, and grow while working o
 
 If you're looking for someone who is dedicated, curious, and ready to take on new challenges in AWS and cloud development, let's connect!
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,aws,bash,appwrite,alpinejs,bootstrap,bun,cloudflare,codepen,d3,debian,devto,discord,docker,dynamodb,electron,figma,firebase,gcp,git,github,nodejs,svelte,tailwind,terraform,tauri,ubuntu,vercel,webpack)](https://skillicons.dev)
+SKILLS:[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,webpack,bash,,codepen,bun,svelte,tailwind)](https://skillicons.dev)
+
+TOOLS:[![My Skills](https://skillicons.dev/icons?i=git,github,bash,bun,nodejs,codepen,docker,electron,tauri,svelte)](https://skillicons.dev)
+
+CLOUD:[![My Skills](https://skillicons.dev/icons?i=aws,gcp,cloudflare,firebase,terraform,debian,ubuntu,appwrite,vercel)](https://skillicons.dev)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizeduardoraposo&theme=transparent&show_icons=true&hide_border=false&count_private=true&hide_rank=false&card_width=500px&rank_icon=github&include_all_commits=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_owner=true)
 
