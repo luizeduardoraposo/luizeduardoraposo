@@ -18,3 +18,5 @@ If you're looking for someone who is dedicated, curious, and ready to take on ne
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardoraposo&theme=transparent&show_icons=true&hide_border=false&layout=compact&card_width=500px&count_weight=0.5&hide=css)
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=luizeduardoraposo&theme=transparent&hide_border=false&card_width=500px)
+
+![Project Logo](https://raw.githubusercontent.com/username/repo/main/logo.svg)
