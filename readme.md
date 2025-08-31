@@ -1,22 +1,22 @@
 
 
-## 👋 Hello, I'm Luiz!
-
-I'm a passionate Software Engineer actively seeking new opportunities in the cloud computing field, with a strong focus on AWS. My journey in tech has equipped me with hands-on experience in modern web technologies such as HTML, CSS, JavaScript, React.js, Svelte.js, Bootstrap, and Tailwind. I thrive on building creative solutions and have developed games like word search and infinite runner, always aiming to deliver engaging user experiences.
 
 
-My English proficiency is at a B2 level, allowing me to communicate effectively in international environments.
+# 👋 Hello, I'm Eduardo!
 
-I'm eager to join a team where I can contribute, learn, and grow while working on innovative cloud projects.
+Driven by curiosity and a passion for technology, I'm a **Software Engineer currently pursuing my degree** and focused on **cloud computing, especially AWS**. My hands-on experience spans modern web technologies like **HTML, CSS, JavaScript, React.js, Svelte.js, Bootstrap, and Tailwind**. I love building creative solutions, including games such as **word search and infinite runner**, always aiming to deliver engaging and memorable user experiences.
 
-If you're looking for someone who is dedicated, curious, and ready to take on new challenges in AWS and cloud development, let's connect!
+Throughout my career, I've enjoyed collaborating with **diverse teams** and tackling **complex challenges**. I believe that **continuous learning** is key to growth, and I'm always exploring new tools, frameworks, and cloud services to stay ahead in the tech landscape. My projects reflect my commitment to **quality, innovation, and user-centric design**.
 
+With a **B2 level of English**, I communicate confidently in international environments and thrive in multicultural teams. I am always eager to learn, adapt, and contribute to innovative cloud projects, bringing both technical expertise and creativity to every task.
 
-## SKILLS
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,webpack,bash,,codepen,bun,svelte,tailwind)](https://skillicons.dev)
+If you're seeking a **dedicated engineer** who combines technical skills with a **growth mindset** and a **collaborative spirit**, let's connect and build something great together!
+
+## HARD SKILLS
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,webpack,svelte,tailwind)](https://skillicons.dev)
 
 ## TOOLS
-[![My Skills](https://skillicons.dev/icons?i=git,github,bash,bun,nodejs,codepen,docker,electron,tauri,svelte)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,bash,bun,nodejs,codepen,docker,electron,tauri)](https://skillicons.dev)
 
 ## CLOUD
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,cloudflare,firebase,terraform,debian,ubuntu,appwrite,vercel)](https://skillicons.dev)
