@@ -19,4 +19,4 @@ If you're looking for someone who is dedicated, curious, and ready to take on ne
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=luizeduardoraposo&theme=transparent&hide_border=false&card_width=500px)
 
-![Project Logo](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Project Logo](https://github.com/luizeduardoraposo/luizeduardoraposo/blob/output/github-contribution-grid-snake.svg)
