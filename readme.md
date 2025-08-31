@@ -11,6 +11,8 @@ I'm eager to join a team where I can contribute, learn, and grow while working o
 
 If you're looking for someone who is dedicated, curious, and ready to take on new challenges in AWS and cloud development, let's connect!
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizeduardoraposo&theme=transparent&show_icons=true&hide_border=false&count_private=true&hide_rank=false&card_width=500px&rank_icon=github&include_all_commits=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_owner=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardoraposo&theme=transparent&show_icons=true&hide_border=false&layout=compact&card_width=500px&count_weight=0.5&hide=css)
