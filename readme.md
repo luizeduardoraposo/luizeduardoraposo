@@ -15,3 +15,6 @@ If you're looking for someone who is dedicated, curious, and ready to take on ne
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardoraposo&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=luizeduardoraposo&theme=dark&hide_border=true)
+![luizeduardoraposo's Stats](https://github-readme-stats.vercel.app/api?username=luizeduardoraposo&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
+![luizeduardoraposo's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizeduardoraposo&theme=highcontrast&hide_border=false)
+![luizeduardoraposo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardoraposo&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
