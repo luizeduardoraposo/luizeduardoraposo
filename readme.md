@@ -11,8 +11,8 @@ I'm eager to join a team where I can contribute, learn, and grow while working o
 
 If you're looking for someone who is dedicated, curious, and ready to take on new challenges in AWS and cloud development, let's connect!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizeduardoraposo&theme=transparent&show_icons=true&hide_border=false&count_private=true&hide_rank=false&width=500px)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luizeduardoraposo&theme=transparent&show_icons=true&hide_border=false&count_private=true&hide_rank=false&card_width=500px)
 
-![GitHub Stats](https://streak-stats.demolab.com?user=luizeduardoraposo&theme=transparent&hide_border=false&width=500px)
+![GitHub Stats](https://streak-stats.demolab.com?user=luizeduardoraposo&theme=transparent&hide_border=false&card_width=500px)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luizeduardoraposo&theme=transparent&show_icons=true&hide_border=false&layout=compact&card_width=500px)
