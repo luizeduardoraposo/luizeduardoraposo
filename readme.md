@@ -1,22 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Luiz%20Eduardo%20Raposo&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Engineer%20%7C%20DevOps%20%7C%20FullStack&descSize=18&descAlignY=55&textBg=false"/>
-
 ## 📌 About Me
 - Driven by curiosity and a passion for technology, I'm a Software Engineer currently pursuing my degree and focused on cloud computing, especially AWS. My hands-on experience spans modern web technologies like HTML, CSS, JavaScript, React.js, Svelte.js, Bootstrap, and Tailwind. I love building creative solutions, including games such as word search and infinite runner, always aiming to deliver engaging and memorable user experiences.
 - Throughout my career, I've enjoyed collaborating with diverse teams and tackling complex challenges. I believe that continuous learning is key to growth, and I'm always exploring new tools, frameworks, and cloud services to stay ahead in the tech landscape. My projects reflect my commitment to quality, innovation, and user-centric design.
 - With a B2 level of English, I communicate confidently in international environments and thrive in multicultural teams. I am always eager to learn, adapt, and contribute to innovative cloud projects, bringing both technical expertise and creativity to every task.
 - If you're seeking a dedicated engineer who combines technical skills with a growth mindset and a collaborative spirit, let's connect and build something great together!
 
-
 ## 🧠 My Focus Areas
 - Cloud Compute
 - Web Apps
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=luizeduardoraposo&theme=radical&radius=10" alt="luizeduardoraposo's Activity Graph" />
 </p>
-
 
 ## 🛠️ Languages & Tools
 
@@ -26,7 +22,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />
-
 </p>
 
 <h3 align="center">Backend</h3>
