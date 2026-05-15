@@ -1,9 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Luiz%20Eduardo%20Raposo&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Engineer%20%7C%20DevOps%20%7C%20FullStack&descSize=18&descAlignY=55&textBg=false"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Stay%20always%20exploring!" alt="Typing introduction" />
-</p>
-
 ## 📌 About Me
 - Driven by curiosity and a passion for technology, I'm a Software Engineer currently pursuing my degree and focused on cloud computing, especially AWS. My hands-on experience spans modern web technologies like HTML, CSS, JavaScript, React.js, Svelte.js, Bootstrap, and Tailwind. I love building creative solutions, including games such as word search and infinite runner, always aiming to deliver engaging and memorable user experiences.
 - Throughout my career, I've enjoyed collaborating with diverse teams and tackling complex challenges. I believe that continuous learning is key to growth, and I'm always exploring new tools, frameworks, and cloud services to stay ahead in the tech landscape. My projects reflect my commitment to quality, innovation, and user-centric design.
@@ -81,6 +77,10 @@
   <a href="mailto:luizeduardoraposo@protonmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="Luiz Eduardo Raposo's Email"/></a>&nbsp;&nbsp;
   <a href="https://lers.pw/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>&nbsp;&nbsp;
   <a href="https://wa.me/5598982477456"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Stay%20always%20exploring!" alt="Typing introduction" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
