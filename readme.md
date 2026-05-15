@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Stay%20always%20exploring!" alt="Typing introduction" />
 </p>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=luizeduardoraposo">
-    <img src="https://komarev.com/ghpvc/?username=luizeduardoraposo&label=Profile%20views&color=00FFFF&style=flat-square" alt="luizeduardoraposo's profile views" />
-  </a>
-</p>
-
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
