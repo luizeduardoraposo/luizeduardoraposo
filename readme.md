@@ -7,6 +7,7 @@
 
 ## 🧠 My Focus Areas
 - Cloud Compute
+- Software as a Service (SaaS)
 - Web Apps
 
 ## 📊 GitHub Stats & Trophies
